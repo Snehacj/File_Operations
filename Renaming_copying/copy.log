@@ -1,0 +1,28 @@
+2025-11-11 13:28:03.725 | INFO     | __main__:copying:8 - Input folder : .\files
+2025-11-11 13:28:03.725 | INFO     | __main__:copying:23 - File renamed successfully
+2025-11-11 13:28:03.725 | INFO     | __main__:copying:26 - File already exists so skipped
+2025-11-11 13:28:03.725 | INFO     | __main__:copying:23 - File renamed successfully
+2025-11-11 13:28:03.725 | INFO     | __main__:copying:26 - File already exists so skipped
+2025-11-11 13:28:03.725 | INFO     | __main__:copying:40 - Total number of files processed : 0
+2025-11-11 13:28:03.725 | INFO     | __main__:copying:41 - Total files skipped : 2
+2025-11-11 13:28:03.725 | INFO     | __main__:copying:42 - Copying successfull
+2025-11-12 12:35:55.321 | INFO     | __main__:copying:8 - Input folder : .\files
+2025-11-12 12:35:55.325 | INFO     | __main__:copying:41 - Total number of files processed : 0
+2025-11-12 12:35:55.325 | INFO     | __main__:copying:42 - Total files skipped : 0
+2025-11-12 12:35:55.325 | INFO     | __main__:copying:43 - Copying successfull
+2025-11-12 12:43:20.135 | INFO     | __main__:copying:8 - Input folder : .\files
+2025-11-12 12:43:20.135 | INFO     | __main__:copying:24 - File renamed successfully
+2025-11-12 12:43:20.155 | INFO     | __main__:copying:32 - File copied successfully
+2025-11-12 12:43:20.156 | INFO     | __main__:copying:24 - File renamed successfully
+2025-11-12 12:43:20.158 | INFO     | __main__:copying:32 - File copied successfully
+2025-11-12 12:43:20.160 | INFO     | __main__:copying:41 - Total number of files processed : 2
+2025-11-12 12:43:20.160 | INFO     | __main__:copying:42 - Total files skipped : 0
+2025-11-12 12:43:20.160 | INFO     | __main__:copying:43 - Copying successfull
+2025-11-12 12:47:04.247 | INFO     | __main__:copying:8 - Input folder : .\files
+2025-11-12 12:47:04.247 | INFO     | __main__:copying:25 - File renamed successfully
+2025-11-12 12:47:04.247 | INFO     | __main__:copying:33 - File copied successfully
+2025-11-12 12:47:04.247 | INFO     | __main__:copying:25 - File renamed successfully
+2025-11-12 12:47:04.247 | INFO     | __main__:copying:33 - File copied successfully
+2025-11-12 12:47:04.247 | INFO     | __main__:copying:42 - Total number of files processed : 2
+2025-11-12 12:47:04.247 | INFO     | __main__:copying:43 - Total files skipped : 0
+2025-11-12 12:47:04.247 | INFO     | __main__:copying:44 - Copying successfull
