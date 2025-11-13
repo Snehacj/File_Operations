@@ -1,4 +1,0 @@
-2025-11-11 13:28:34.726 | INFO     | __main__:sorting_files:7 - input folder : .
-2025-11-11 13:28:34.726 | INFO     | __main__:sorting_files:21 - Doc file detected and moved in to docs folder
-2025-11-11 13:28:34.726 | INFO     | __main__:sorting_files:26 - Image file detected and moved in to images folder
-2025-11-11 13:28:34.726 | INFO     | __main__:sorting_files:38 - Sorting completed successfully
