@@ -1,0 +1,14 @@
+2025-11-11 13:28:34.726 | INFO     | __main__:sorting_files:7 - input folder : .
+2025-11-11 13:28:34.726 | INFO     | __main__:sorting_files:21 - Doc file detected and moved in to docs folder
+2025-11-11 13:28:34.726 | INFO     | __main__:sorting_files:26 - Image file detected and moved in to images folder
+2025-11-11 13:28:34.726 | INFO     | __main__:sorting_files:38 - Sorting completed successfully
+2025-11-12 23:16:56,116 - ERROR - Error sorting files: [WinError 3] The system cannot find the path specified: './task3'
+2025-11-12 23:16:56,116 - ERROR - Error sorting files: [WinError 3] The system cannot find the path specified: './task3'
+2025-11-12 23:16:56,116 - ERROR - Error sorting files: [WinError 3] The system cannot find the path specified: './task3'
+2025-11-12 23:16:56,116 - INFO - Created folder: ./videos
+2025-11-12 23:16:56,116 - ERROR - Error sorting files: [WinError 3] The system cannot find the path specified: './task3'
+2025-11-12 23:16:56,116 - INFO - Sorting completed successfully
+2025-11-12 23:18:12,750 - INFO - Moved file.pdf to ./docs
+2025-11-12 23:18:12,750 - INFO - Moved file1.mp3 to ./audio
+2025-11-12 23:18:12,750 - INFO - Moved file2.mp4 to ./videos
+2025-11-12 23:18:12,750 - INFO - Sorting completed successfully
