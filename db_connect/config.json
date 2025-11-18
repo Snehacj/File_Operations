@@ -1,0 +1,5 @@
+{
+"query":"select * from employees",
+"output":"Employee.csv",
+"duckdb_query": "SELECT department, AVG(salary) AS avg_salary FROM df GROUP BY department"
+}
