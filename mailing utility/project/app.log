@@ -1,0 +1,56 @@
+2025-11-08 23:20:58.253 | INFO     | __main__:<module>:34 - Environment selected: QA
+2025-11-08 23:20:58.253 | INFO     | __main__:<module>:35 - File format: csv
+2025-11-08 23:20:58.253 | INFO     | __main__:<module>:36 - Input file: ./data/qa/input/temperature.csv
+2025-11-08 23:21:01.875 | INFO     | __main__:<module>:44 - Data read successfully. Rows: 2906327 Columns: 8
+2025-11-08 23:21:01.878 | ERROR    | __main__:<module>:55 - Error during calculation: "Column(s) ['AverageTemperature'] do not exist"
+2025-11-08 23:30:47.755 | INFO     | __main__:<module>:40 - Environment selected: QA
+2025-11-08 23:30:47.755 | INFO     | __main__:<module>:41 - File format: csv
+2025-11-08 23:30:47.755 | INFO     | __main__:<module>:42 - Input file: ./data/qa/input/temperature.csv
+2025-11-08 23:30:51.429 | INFO     | __main__:<module>:52 - Data read successfully. Rows: 2906327 Columns: 8
+2025-11-08 23:30:52.235 | INFO     | __main__:<module>:71 - Data cleaning done. Dropped 1450990 rows with null values.
+2025-11-08 23:30:52.235 | ERROR    | __main__:<module>:79 - Error during calculation: "Column(s) ['AverageTemperature'] do not exist"
+2025-11-08 23:31:38.805 | INFO     | __main__:<module>:40 - Environment selected: QA
+2025-11-08 23:31:38.805 | INFO     | __main__:<module>:41 - File format: csv
+2025-11-08 23:31:38.806 | INFO     | __main__:<module>:42 - Input file: ./data/qa/input/temperature.csv
+2025-11-08 23:31:42.365 | INFO     | __main__:<module>:52 - Data read successfully. Rows: 2906327 Columns: 8
+2025-11-08 23:31:43.079 | INFO     | __main__:<module>:71 - Data cleaning done. Dropped 1450990 rows with null values.
+2025-11-08 23:31:43.388 | INFO     | __main__:<module>:77 - Average temperature calculated successfully.
+2025-11-08 23:31:43.402 | INFO     | __main__:<module>:94 - Output saved successfully at: ./data/qa/output/avg_temperature.csv
+2025-11-10 19:29:45.999 | INFO     | __main__:<module>:33 - Environment selected: QA
+2025-11-10 19:29:45.999 | INFO     | __main__:<module>:34 - File format: csv
+2025-11-10 19:29:45.999 | INFO     | __main__:<module>:35 - Input file: ./data/qa/input/temperature.csv
+2025-11-10 19:29:46.001 | ERROR    | __main__:<module>:45 - Error reading input file: [Errno 2] No such file or directory: './data/qa/input/temperature.csv'
+2025-11-10 19:30:19.042 | INFO     | __main__:<module>:33 - Environment selected: QA
+2025-11-10 19:30:19.042 | INFO     | __main__:<module>:34 - File format: csv
+2025-11-10 19:30:19.042 | INFO     | __main__:<module>:35 - Input file: ./data/qa/input/temperature.csv
+2025-11-10 19:30:21.619 | INFO     | __main__:<module>:43 - Data read successfully.
+2025-11-10 19:30:21.626 | ERROR    | __main__:<module>:52 - Error during calculation: unhashable type: 'slice'
+2025-11-10 19:33:56.944 | INFO     | __main__:<module>:33 - Environment selected: QA
+2025-11-10 19:33:56.944 | INFO     | __main__:<module>:34 - File format: csv
+2025-11-10 19:33:56.944 | INFO     | __main__:<module>:35 - Input file: ./data/qa/input/temperature.csv
+2025-11-10 19:33:59.679 | INFO     | __main__:<module>:43 - Data read successfully.
+2025-11-10 19:33:59.691 | ERROR    | __main__:<module>:52 - Error during calculation: 'Column not found: AverageTemperature'
+2025-11-10 19:34:14.604 | INFO     | __main__:<module>:33 - Environment selected: QA
+2025-11-10 19:34:14.606 | INFO     | __main__:<module>:34 - File format: csv
+2025-11-10 19:34:14.606 | INFO     | __main__:<module>:35 - Input file: ./data/qa/input/temperature.csv
+2025-11-10 19:34:17.037 | INFO     | __main__:<module>:43 - Data read successfully.
+2025-11-10 19:34:17.537 | INFO     | __main__:<module>:50 - Average temperature calculated successfully.
+2025-11-10 19:34:17.643 | WARNING  | __main__:<module>:58 - Old output file deleted.
+2025-11-10 19:34:17.659 | INFO     | __main__:<module>:67 - Output saved successfully at: ./data/qa/output/avg_temperature.csv
+2025-11-24 21:06:27.617 | ERROR    | __main__:<module>:36 - Error reading config file: 'qa'
+2025-11-24 21:07:52.908 | ERROR    | __main__:<module>:36 - Error reading config file: 'qa'
+2025-11-24 21:07:59.473 | ERROR    | __main__:<module>:36 - Error reading config file: 'qa'
+2025-11-24 21:08:19.817 | INFO     | __main__:<module>:42 - Environment: QA
+2025-11-24 21:08:19.817 | INFO     | __main__:<module>:43 - File format: csv
+2025-11-24 21:08:19.817 | INFO     | __main__:<module>:44 - Input file path: ./data/qa/input/temperature.csv
+2025-11-24 21:08:21.734 | INFO     | __main__:<module>:65 - Average temperature calculated successfully using DuckDB.
+2025-11-24 21:08:21.738 | WARNING  | __main__:<module>:77 - Old output file deleted.
+2025-11-24 21:08:21.752 | INFO     | __main__:<module>:86 - Output saved successfully at: ./data/qa/output/avg_temperature.csv
+2025-11-24 21:08:26.102 | ERROR    | __main__:<module>:123 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29b5b25e0f0sm136210215ad.46 - gsmtp')
+2025-11-24 21:15:03.562 | INFO     | __main__:<module>:42 - Environment: QA
+2025-11-24 21:15:03.562 | INFO     | __main__:<module>:43 - File format: csv
+2025-11-24 21:15:03.562 | INFO     | __main__:<module>:44 - Input file path: ./data/qa/input/temperature.csv
+2025-11-24 21:15:04.755 | INFO     | __main__:<module>:65 - Average temperature calculated successfully using DuckDB.
+2025-11-24 21:15:04.755 | WARNING  | __main__:<module>:77 - Old output file deleted.
+2025-11-24 21:15:04.779 | INFO     | __main__:<module>:86 - Output saved successfully at: ./data/qa/output/avg_temperature.csv
+2025-11-24 21:15:12.099 | INFO     | __main__:<module>:120 - Email sent successfully.
